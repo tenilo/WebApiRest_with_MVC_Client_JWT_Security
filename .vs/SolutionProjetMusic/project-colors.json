@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c40b034-4b45-4638-9927-6749d3bd6d2f": {
+      "ProjectGuid": "0c40b034-4b45-4638-9927-6749d3bd6d2f",
+      "DisplayName": "MyMusic.Core",
+      "ColorIndex": 0
+    },
+    "1c307841-882e-4a77-8c15-028fd1f7920b": {
+      "ProjectGuid": "1c307841-882e-4a77-8c15-028fd1f7920b",
+      "DisplayName": "MyMusic.Data",
+      "ColorIndex": 1
+    },
+    "5493a75e-139b-4061-a39d-da7b49649ae8": {
+      "ProjectGuid": "5493a75e-139b-4061-a39d-da7b49649ae8",
+      "DisplayName": "MyMusic.Services",
+      "ColorIndex": 2
+    },
+    "f2be5b29-9bcf-4d2a-9948-8a6a1f9d6669": {
+      "ProjectGuid": "f2be5b29-9bcf-4d2a-9948-8a6a1f9d6669",
+      "DisplayName": "MyMusic.Data.MongoDB",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "75d06a5f-8336-4f96-b73d-512dd1dbb4ca": {
+      "ProjectGuid": "75d06a5f-8336-4f96-b73d-512dd1dbb4ca",
+      "DisplayName": "MyMusic.API",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

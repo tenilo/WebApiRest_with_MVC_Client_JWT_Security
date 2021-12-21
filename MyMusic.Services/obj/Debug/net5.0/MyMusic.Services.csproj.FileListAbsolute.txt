@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.deps.json
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\bin\Debug\net5.0\ref\MyMusic.Services.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Services.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.AssemblyInfo.cs
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\ref\MyMusic.Services.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\bin\Debug\net5.0\MyMusic.Core.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Services\obj\Debug\net5.0\MyMusic.Services.csproj.CopyComplete

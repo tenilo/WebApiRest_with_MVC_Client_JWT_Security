@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\net5.0\MyMusic.Data.MongoDB.deps.json
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\net5.0\MyMusic.Data.MongoDB.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\net5.0\ref\MyMusic.Data.MongoDB.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\net5.0\MyMusic.Data.MongoDB.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.AssemblyInfo.cs
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\ref\MyMusic.Data.MongoDB.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\net5.0\MyMusic.Core.dll
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\bin\Debug\net5.0\MyMusic.Core.pdb
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\village_de_emploi\programmation_.net_framework\SolutionProjetMusic\MyMusic.Data.MongoDB\obj\Debug\net5.0\MyMusic.Data.MongoDB.csproj.CopyComplete
